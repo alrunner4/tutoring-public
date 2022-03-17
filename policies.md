@@ -38,7 +38,7 @@
 
 * **If you choose to request my attendance for the production of your
   deliverables**, I will help you understand your deliverable requirements,
-  demonstrate relevant language and library features, and brainstorm
+  demonstrate relevant language, library and tool features, and brainstorm
   implementation design ideas and pseudo-code.
 
 * When learning a new programming language, especially your first, but even if
@@ -52,4 +52,9 @@
   business obligates a demand for me to produce any specific expression, no
   matter how insignificant it seems to you, you'll likely be unsatisfied with
   the rate at which your production progresses with my Socratic-lite method.
+
+* There is a difference between my showing you how to debug your project and
+  debugging your project for you. Even if there is not much typing involved in
+  any particular fix, you should not expect to sit on your hands while I
+  develop my own understanding of your delivered work.
 
