@@ -1,3 +1,10 @@
+# TL;DR
+
+If your exclusive focus is getting answers and solutions, please save both of us
+some time and look elsewhere. From the outset, I will be challenging you to
+incorporate new programming techniques, explain your reasoning, and recognize
+bugs you've written with my supporting perspective.
+
 # Principles
 
 * The goal of tutoring is *learning*.
